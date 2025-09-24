@@ -135,9 +135,7 @@ python Python/getStudents.py
 
 ---
 
-## 👨‍💻 Author
-Khushal Ravindra Bhavsar✨  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/khushal-bhavsar-/)  
-🐙 [GitHub](https://github.com/Khushal41)
+### 🧑‍💻 Author
+
+**Saikiran Rajesh Asamwar**  
 - Full Stack MERN Developer | Python & Cloud Enthusiast  
-Do you want me to now **append the ready-to-deploy Lambda Python code** for both `insertStudentData` and `getStudentData` directly inside this README so it’s a single reference file?
